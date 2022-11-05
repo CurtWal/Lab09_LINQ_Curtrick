@@ -1,0 +1,5 @@
+C:\Users\curtr\Source\Repos\CurtWal\Lab09_LINQ_Curtrick\JsonLinqData\obj\Debug\net6.0\JsonLinqData.csproj.AssemblyReference.cache
+C:\Users\curtr\Source\Repos\CurtWal\Lab09_LINQ_Curtrick\JsonLinqData\obj\Debug\net6.0\JsonLinqData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curtr\Source\Repos\CurtWal\Lab09_LINQ_Curtrick\JsonLinqData\obj\Debug\net6.0\JsonLinqData.AssemblyInfoInputs.cache
+C:\Users\curtr\Source\Repos\CurtWal\Lab09_LINQ_Curtrick\JsonLinqData\obj\Debug\net6.0\JsonLinqData.AssemblyInfo.cs
+C:\Users\curtr\Source\Repos\CurtWal\Lab09_LINQ_Curtrick\JsonLinqData\obj\Debug\net6.0\JsonLinqData.csproj.CoreCompileInputs.cache
